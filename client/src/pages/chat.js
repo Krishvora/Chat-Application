@@ -14,6 +14,8 @@ const initialState = {
   fetchingLocation: false,
 };
 
+const ENDPOINT = "https://kvora-chat-server.herokuapp.com/";
+
 class Chat extends Component {
   constructor(props) {
     super(props);
@@ -37,7 +39,7 @@ class Chat extends Component {
       room: this.props.match.params.room,
     };
 
-    socket = io("http://localhost:8080");
+    socket = io(ENDPOINT);
 
     socket.emit("join", params, function (err) {
       if (err) {
