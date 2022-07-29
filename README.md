@@ -1,6 +1,6 @@
 # React Chat Application
 
-### [Demo](chat-application-mpye0r9q3-krish-vora.vercel.app)
+### [Live Demo](chat-application-mpye0r9q3-krish-vora.vercel.app)
 
 As the Demo is hosted on a free Heroku account, the servers its hosted on enter ‘sleep mode’ when not in use. If you notice a delay, please allow a few seconds for the servers to wake up.
 
