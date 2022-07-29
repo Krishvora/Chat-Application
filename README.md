@@ -1,24 +1,24 @@
 # React Chat Application
 
-### [Live Demo](chat-application-mpye0r9q3-krish-vora.vercel.app)
+### [Live Demo](http://chat-application-beta.vercel.app/)
 
-As the Demo is hosted on a free Heroku account, the servers its hosted on enter ‘sleep mode’ when not in use. If you notice a delay, please allow a few seconds for the servers to wake up.
+Since the demo is hosted on a free Heroku account, the servers its hosted on enter ‘sleep mode’ when not in use. If you notice a delay, please allow a few seconds for the servers to wake up.
 
-### About:
+### Description:
 
 This is a real-time chat application built using React (Create React App on the frontend) and NodeJS/Express/Socket.io Backend.
 Users are able to join groups and message other users in real-time.
 
-### Tech Stack:
+### Tech Stack
 
 - NodeJS/Express
-- SOCKET.IO
-- React (Create React App)
-- React Router 4
+- Socket.io
+- React 
+- React Router
 - Moment JS
 - SASS
 
-## Software
+### Development Details
 
 Before proceeding, please ensure you have the following software installed on your computer.
 
