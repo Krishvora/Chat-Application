@@ -66,6 +66,21 @@ class Join extends Component {
                   <option value="Group 3">Group 3</option>
                   <option value="Group 4">Group 4</option>
                   <option value="Group 5">Group 5</option>
+                  <option value="Group 6">Group 6</option>
+                  <option value="Group 7">Group 7</option>
+                  <option value="Group 8">Group 8</option>
+                  <option value="Group 9">Group 9</option>
+                  <option value="Group 10">Group 10</option>
+                  <option value="Group 11">Group 11</option>
+                  <option value="Group 12">Group 12</option>
+                  <option value="Group 13">Group 13</option>
+                  <option value="Group 14">Group 14</option>
+                  <option value="Group 15">Group 15</option>
+                  <option value="Group 16">Group 16</option>
+                  <option value="Group 17">Group 17</option>
+                  <option value="Group 18">Group 18</option>
+                  <option value="Group 19">Group 19</option>
+                  <option value="Group 20">Group 20</option>
                 </select>
                 <i className="fas fa-chevron-down"></i>
               </div>
